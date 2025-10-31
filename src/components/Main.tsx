@@ -1,7 +1,5 @@
 function Main() {
-    return (
-        <div>Hello, World!</div>
-    );
-};
+  return <div>test</div>;
+}
 
 export default Main;
